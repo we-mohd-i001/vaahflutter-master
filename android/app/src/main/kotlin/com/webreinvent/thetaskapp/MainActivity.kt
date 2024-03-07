@@ -1,4 +1,4 @@
-package com.webreinvent.vaahflutter
+package com.webreinvent.thetaskap
 
 import io.flutter.embedding.android.FlutterActivity
 

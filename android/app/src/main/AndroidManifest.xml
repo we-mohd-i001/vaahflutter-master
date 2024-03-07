@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.webreinvent.vaahflutter">
+    package="com.webreinvent.thetaskapp">
    <application
-        android:label="VaahFlutter"
+        android:label="The Task App"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
