@@ -1,5 +1,5 @@
-name: vaahflutter
-description: VaahFlutter, essentials for every flutter app.
+name: thetaskapp
+description: The Task App, an enhanced todo list for your day to day tasks.
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
